@@ -1,2 +1,2 @@
-# DA-Projs
-data Analysis projects
+# DA-Project
+data Analysis project
