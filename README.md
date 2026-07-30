@@ -67,27 +67,4 @@ Joins are implemented as logical left joins, allowing analysis across bookings, 
 - **KPI design** including YoY percentage and basis-point calculations with conditional formatting.
 - **Multiple chart types** including line, bar, bubble, treemap, and stacked visuals.
 
-## Repository Contents
-
-```
-Hotel management/
-├── HM.twb                                  # Tableau workbook
-├── HM.xml                                   # Workbook XML export
-├── HotelManagement_V2 (1).xlsx              # Source data (6 sheets)
-├── Report.docx                              # Detailed case study report
-├── New Microsoft PowerPoint Presentation.pptx  # Summary presentation
-├── Today reservation.png                    # Occupancy dashboard preview
-├── w1.png … w4.png                          # Additional dashboard previews
-└── DR.jpg                                   # Reference image
-```
-
-## How to Use
-
-1. Install [Tableau Desktop](https://www.tableau.com/products/desktop) or Tableau Public.
-2. Open `HM.twb`.
-3. If prompted, point the data connection to `HotelManagement_V2 (1).xlsx`.
-4. Use the `Sim Today` slider and dashboard filters to explore occupancy, demographics, and service performance interactively.
-
-## Preview
-
 Dashboard screenshots (`Today reservation.png`, `w1.png` through `w4.png`) are included for a quick look. See `Report.docx` for the full case study write-up.
